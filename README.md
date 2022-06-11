@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hello!/Hola!/안녕하세요!/Salut!  👋
+My name is Hyun Jun Lee, born and raised in Mexico and currently pursuing my bachelors degree in Software Engineering/Computer Science in South Korea. I am currently in my 4th year and attending Sung Kyun Kwan University.
+
+🔭 Currently in the works...
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  - Finance bots to help trading in markets where it isn't developed enough<br />
+  - NLP model tuning to help with sentiment classification in reddit regarding topics of interest<br />
+  - Recommender system for Korean cosmetics (E-commerce)<br />
+
+📫 How to reach me: ...
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-E-mail: hleec1234@gmail.com 📫<br />
+-Socials: @hyunjunLC 😄
 
 <!--
 **hleec1/hleec1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
